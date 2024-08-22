@@ -10,6 +10,7 @@ public class Add2no {
         int a=10;
         int b=15;
         int c;
+        int d;
         //System.out.println("Enter Two Numbers");
         //a= s.nextInt();
         //b=s.nextInt();
